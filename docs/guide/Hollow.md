@@ -2,8 +2,8 @@
 
 Hollow is a small gold mining town. It was on the verge of becoming a prosperous boom town when the mine owner shut everything down and has since become a rat infested, delapitated, shell of its former self, virtually a ghost town. A majority of the homes, and businesses are shuttered and in ruins, but a few still remain.
 
-## The Sticks and Vinegar
-The Sticks and Vinegar Tavern serves as city hall, community center, and of course the only drinking establishment for Hollow's dwindling population.
+## The Pork Pie Tavern
+The Pork Pie Tavern serves as city hall, community center, and of course the only drinking establishment for Hollow's dwindling population.
 
 ## General Store
 This establishment was a centerpoint when Hollow was on the rise. Now it carries only the essentials with most of its shelves empty.
