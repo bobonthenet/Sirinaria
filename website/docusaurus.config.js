@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/fairy.ico',
   organizationName: 'bobonthenet', // Usually your GitHub org/user name.
   projectName: 'Sirinaria', // Usually your repo name.
   themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
       title: 'Sirinaria',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/fairy.svg',
       },
       items: [
         {
