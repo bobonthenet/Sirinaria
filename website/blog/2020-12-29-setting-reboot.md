@@ -4,6 +4,7 @@ author: Bobby B.
 authorURL: http://bobonthenet.com
 authorFBID: 38501697
 authorTwitter: bobonthenet
+tags: [blog]
 ---
 
 My Sirinaria campaign setting is currently undergoing a major reboot. I am in the process of gathering a bunch of my writings that I had previously used for different campaign settings, and other fantasy creative works, to incorporate them into a single setting and also rewriting some of the existing content I wasn't really happy with. I also wanted to make room for some content created by others that I especially enjoy and wish to share.
