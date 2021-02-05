@@ -13,7 +13,7 @@ If a character receives damage that would take that character's HP to zero or be
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-4   | A scar, the character remains concious but is knocked down. The character on their turn may call for help but must remain prone until healed. |
 | 5-6   | Same as above but save to stay concious. If knocked unconcious, the character may not participate in combat in any way.                       |
-| 7     | Bleeding. Roll one HD: you will lose it in that many turns. Keep doing this until bandaged or healed or out of HD.                            |
+| 7     | Bleeding. Roll one HD: you will lose it in that many turns. Keep doing this until bandaged or healed or out of HD. If you lose all of your HD the PC is dead.                            |
 | 8-9   | You lose something. Disadvantage on some tasks.<br/>Roll d6: 1. Fingers (d4); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks.                     |
 | 10    | Leg useless. Save to keep it when healed. Disadvantage on agility tasks.                                                                      |
 | 11    | Arm useless. Save to keep it when healed. Disadvantage when needing both arms or if it was the dominant hand.                                 |
