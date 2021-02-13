@@ -14,4 +14,4 @@ The Sirinaria Campaign Setting is best played using [Old School Essentials by Ne
 * Magic users can transcribe spell scrolls into their spell books but doing so destroys the scroll, a scroll that is found and unidentified must first be read by casting Read Magic upon it.
 *  You can also still learn new spells as described in the rules via mentoring or research.
 * Acceptions to any of these house rules or the printed OSE rules may be allowed if a good reason is given.
-* A character whose health is reduced to 0 must follow the rules for [Death and Dismemberment](../deathanddismemberment/).
+* A character whose health is reduced to 0 must follow the rules for [Death and Dismemberment](DeathAndDismemberment.md).
