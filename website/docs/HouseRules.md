@@ -15,3 +15,4 @@ The Sirinaria Campaign Setting is best played using [Old School Essentials by Ne
 *  You can also still learn new spells as described in the rules via mentoring or research.
 * Acceptions to any of these house rules or the printed OSE rules may be allowed if a good reason is given.
 * A character whose health is reduced to 0 must follow the rules for [Death and Dismemberment](DeathAndDismemberment.md).
+* When two groups enter combat where the larger group is at least 3/1 bigger, the smaller group will no longer be able to use an attack of opportunity, or receive any advantage from flanking against the larger.
