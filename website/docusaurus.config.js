@@ -9,6 +9,10 @@ module.exports = {
   organizationName: 'bobonthenet', // Usually your GitHub org/user name.
   projectName: 'Sirinaria', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true
+    },
     navbar: {
       title: 'Sirinaria',
       logo: {
