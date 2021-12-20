@@ -68,7 +68,23 @@ module.exports = {
           collapsable: true,
           children: [
             'Ceonre',
-            'Nimrinde'
+            'Nimrinde',
+            'FatherAtelGatlon'
+          ]
+        },
+        {
+          title: 'Bestiary',
+          collapsable: true,
+          children: [
+            'Goblins',
+            'Elves'
+          ]
+        },
+        {
+          title: 'Religion',
+          collapsable: true,
+          children: [
+            'Religion'
           ]
         }
       ],
