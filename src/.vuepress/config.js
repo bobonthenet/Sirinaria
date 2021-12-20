@@ -29,7 +29,7 @@ module.exports = {
   themeConfig: {
     repo: 'bobonthenet/Sirinaria',
     editLinks: true,
-    docsDir: '',
+    docsDir: 'src',
     editLinkText: 'Edit',
     lastUpdated: true,
     nav: [
@@ -44,6 +44,10 @@ module.exports = {
       {
         text: 'Blog',
         link: 'https://bobonthenet.com'
+      },
+      {
+        text: 'Discord',
+        link: 'https://discord.gg/pRtR54YwjW'
       }
     ],
     sidebar: {
