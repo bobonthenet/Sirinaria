@@ -1,0 +1,3 @@
+# Hawksmont
+
+Hawksmont is nestled within the foothills of the Wirost Mountains, and hidden within the Ch'thul woodlands. It began as no more than a logging camp and grew to a small village around a church of Mutar. Logging is forbidden by fairy law within the forest except in the area surrounding Hawksmont. The queen of Ch'thul, Nimrinde has bartered some sort of agreement with Gatlon the Cleric that runs the church of Mutar within Hawksmont that allows the community to cut down the trees from this enchanted wood without repurcussion. Only Gatlon knows what the terms of this agreement are, and every morning before dawn, he walks the perimeter of the village and through some unknown means determines where Nimrinde has decreed that the loggers are able to fell trees.

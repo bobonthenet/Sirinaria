@@ -1,0 +1,9 @@
+# Goblins
+
+Goblins in Sirinaria are vile creatures whose motivations are – in descending order: fear, hatred, malice, and humor. Goblins hate one another almost as much as they hate any of the other races in Sirinaria but aren't smart enough or strong enough to survive as individuals. For that reason, they form small bands or tribes that are able to tolerate one another. These tribes are nomadic. Goblins are lazy and do not cut or store wood choosing instead to take what they believe to be the easier path of foraging for fallen lumber for their fires and shelters. They prefer to hunt and forage near their camps afraid to go too far. They will also piss and shit wherever they are when they need to go. For these reasons these camps very quickly become unlivable and the goblin tribe soon needs to pack up and move on to a fresh location. Camps are easy to spot and avoid but traveling goblins are often a problem for travelers.
+
+It is rumored that goblins, despite everything that makes them terrible, cannot resist a good joke. This is assuming they can understand it. Travelers love telling stories of how they narrowly escaped goblin capture by telling them a joke and fleeing while they roll about in tearful glee and shrieking laughter. Most of these stories, however, are likely untrue.
+
+It is also believed that goblins are fae creatures that have been corrupted somehow.
+
+Occasionally lone goblins that while they share the appearance of their breathren, don't seem to have the same sort of evil personality of their kin. These lone goblins are intelligent, well mannered and often times helpful to other races. It is even rumoured that groups of these goblin can be found together in a hidden marketplace full of magical wonders that can be found nowhere else.

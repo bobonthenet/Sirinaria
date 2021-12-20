@@ -1,0 +1,19 @@
+{
+  "name": "Sirinaria",
+  "version": "0.0.1",
+  "description": "Sirinaria Campaign Setting Gazetteer",
+  "main": "index.js",
+  "authors": {
+    "name": "Bobby B.",
+    "email": "zafthan@gmail.com"
+  },
+  "repository": "Sirinaria/Sirinaria",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
