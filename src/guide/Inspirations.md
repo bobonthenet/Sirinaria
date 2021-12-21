@@ -12,3 +12,4 @@ Sirinaria is a mashup of all sorts of folklore, literature, and mythology. Here 
 * Germanic Folklore
 * Norse Mythology
 * [The Goblin Market by Christina Rossetti](https://www.poetryfoundation.org/poems/44996/goblin-market)
+* Jonathan Strange & Mr. Norrell by Susanna Clarke
