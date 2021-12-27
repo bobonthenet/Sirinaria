@@ -1,6 +1,8 @@
 {
   "[markdown]": {
-    "editor.cursorSurroundingLines": 0
+    "editor.cursorSurroundingLines": 0,
+    "editor.tabSize": 2,
+    "editor.wrappingIndent": "same"
   },
   "spellright.language": [
     "English (American)"
