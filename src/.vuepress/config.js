@@ -76,8 +76,9 @@ module.exports = {
           title: 'Bestiary',
           collapsable: true,
           children: [
-            'Goblins',
-            'Elves'
+            'Elves',
+            'Dwarves',
+            'Goblins'
           ]
         },
         {
