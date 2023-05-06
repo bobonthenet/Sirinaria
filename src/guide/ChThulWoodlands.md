@@ -1,3 +1,0 @@
-# Ch'Thul Woodlands
-
-The Ch'Thul Woodlands rest among the foothills of the Wirost Mountains. They are the domain of the fairy queen Nimrinde. Harming a tree within these woodlands is typically met with a swift death, enacted by one of the fairy queens vassals. The woodlands are filled with all manner of fay and other creatures, the most common of which are tribes of roaming goblins. There is one place where the felling of Ch'Thul trees is allowed and that is the logging village of Hawksmont.

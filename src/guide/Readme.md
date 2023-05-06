@@ -1,3 +1,0 @@
-# Introduction
-
-Sirinaria is a fantasy world based on so many things. I don't even know where to start. I have incorporated within this world some of my favorite fantasy literature, celtic, germanic, and slavic folklore, mythology, and more. If you are reading through this website and think you see something familiar it is very likely that it really is. I consider this fantasy campaign setting not so much an original creation but a mashup of all my favorite works, with just a sprinkling of originality to make it my own. Please see the [inspirations](inspirations.md) page for more.

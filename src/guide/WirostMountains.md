@@ -1,1 +1,0 @@
-The Wirost Mountains line the western side of Sirinaria. The Northern Wirost are home to the Minrock Orks. A vile and deadly branch of the Ork race.
