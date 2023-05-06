@@ -38,7 +38,8 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/gazetteer/' },
           { text: "Dwar'Cathr", link: '/gazetteer/dwarcathr'},
-          { text: 'Fellnari Forest', link: '/gazetteer/fellnariforest' }
+          { text: 'Fellnari Forest', link: '/gazetteer/fellnariforest' },
+          { text: 'Hastdurn', link: '/gazetteer/hastdurn'}
         ]
       }
     ],
