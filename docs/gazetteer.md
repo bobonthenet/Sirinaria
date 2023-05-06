@@ -1,3 +1,0 @@
-#Gazetteer
-
-UNDER CONSTRUCTION!

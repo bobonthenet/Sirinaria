@@ -9,16 +9,16 @@ hero:
   actions:
     - theme: brand
       text: History
-      link: /
+      link: /history/
     - theme: brand
       text: Pantheon
-      link: /
+      link: /pantheon/
     - theme: brand
       text: Lineages
-      link: /
+      link: /lineages/
     - theme: brand
       text: Gazetteer
-      link: /gazetteer/index
+      link: /gazetteer/
 
 # features:
 #   - title: Feature A

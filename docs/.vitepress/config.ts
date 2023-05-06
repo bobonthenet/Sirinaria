@@ -20,8 +20,9 @@ export default defineConfig({
       {
         text: 'The Pantheon of Sirinaria',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Introduction', link: '/pantheon/' },
+          { text: 'Thunir', link: '/pantheon/Thunir' },
+          { text: 'Keeyar and Noeyar', link: '/pantheon/Keeyarandnoeyar'}
         ],
       },
       {
@@ -36,6 +37,7 @@ export default defineConfig({
         text: 'Gazetteer of Sirinaria',
         items: [
           { text: 'Introduction', link: '/gazetteer/' },
+          { text: "Dwar'Cathr", link: '/gazetteer/dwarcathr'},
           { text: 'Fellnari Forest', link: '/gazetteer/fellnariforest' }
         ]
       }
