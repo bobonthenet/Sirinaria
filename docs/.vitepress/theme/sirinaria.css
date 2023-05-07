@@ -4,7 +4,7 @@ h1.name {
 
 h1.name .clip {
   font-family: var(--vp-font-family-headings);
-  font-size: 100px;
+  font-size: clamp(70px, 7.3vw, 100px);
 }
 
 .VPHomeHero .main .text,
