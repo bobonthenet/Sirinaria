@@ -1,3 +1,5 @@
 # The History of Sirinaria
 
-UNDER CONSTRUCTION!
+TODO: Write history
+
+- The Torang Dynasty and Greegate.

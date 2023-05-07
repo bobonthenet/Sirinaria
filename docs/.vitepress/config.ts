@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,44 +8,53 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Blog', link: 'https://bobonthenet.com' }
+      { text: "Home", link: "/" },
+      { text: "Blog", link: "https://bobonthenet.com" }
     ],
 
     sidebar: [
       {
-        text: 'History',
+        text: "History",
+        link: "/history/",
         items: []
       },
       {
-        text: 'The Pantheon of Sirinaria',
+        text: "The Pantheon of Sirinaria",
+        link: "/pantheon/",
         items: [
-          { text: 'Introduction', link: '/pantheon/' },
-          { text: 'Thunir', link: '/pantheon/Thunir' },
-          { text: 'Keeyar and Noeyar', link: '/pantheon/Keeyarandnoeyar'}
+          { text: "Annato", link: "/pantheon/annato"},
+          { text: "Keeyar and Noeyar", link: "/pantheon/keeyarandnoeyar" },
+          { text: "Mutar", link: "/pantheon/mutar"},
+          { text: "Thunir", link: "/pantheon/thunir" }
+          
         ],
       },
       {
-        text: 'Lineages of Sirinaria',
+        text: "Lineages of Sirinaria",
+        link: "/lineages/",
         items: [
-          { text: 'Dwarves', link: '/lineages/Dwarves' },
-          { text: 'Elves', link: '/lineages/Elves' },
-          { text: 'Gnomes', link: '/lineages/Gnomes'}
+          {text: "Dragonborn", link: "/lineages/dragonborn"},
+          { text: "Dwarves", link: "/lineages/dwarves" },
+          { text: "Elves", link: "/lineages/elves" },
+          { text: "Gnomes", link: "/lineages/gnomes"},
+          { text: "Humans", link: "/lineages/humans"}
         ]
       },
       {
-        text: 'Gazetteer of Sirinaria',
+        text: "Gazetteer of Sirinaria",
+        link: "/gazetteer/",
         items: [
-          { text: 'Introduction', link: '/gazetteer/' },
-          { text: "Dwar'Cathr", link: '/gazetteer/dwarcathr'},
-          { text: 'Fellnari Forest', link: '/gazetteer/fellnariforest' },
-          { text: 'Hastdurn', link: '/gazetteer/hastdurn'}
+          { text: "Dwar'Cathr", link: "/gazetteer/dwarcathr"},
+          { text: "Fellnari Forest", link: "/gazetteer/fellnariforest" },
+          { text: "Greegate", link: "/gazetteer/greegate"},
+          { text: "Hastdurn", link: "/gazetteer/hastdurn"},
+          { text: "Hawksmont", link: "/gazetteer/hawksmont"}
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/bobonthenet/Sirinaria' }
+      { icon: "github", link: "https://github.com/bobonthenet/Sirinaria" }
     ]
   }
 })

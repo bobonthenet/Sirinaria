@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Sirinaria"
-  text: "Campaign setting."
+  text: "Campaign Setting Guide"
   tagline: Dark fairytale mixed with high fantasy setting.
   actions:
     - theme: brand

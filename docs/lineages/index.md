@@ -1,4 +1,8 @@
 # Lineages
-- [Dwarves](./Dwarves.md)
-- [Elves](./Elves.md)
-- [Gnomes](./Gnomes.md)
+The major lineages of Sirinaria.
+
+- [Dragonborn](./dragonborn.md)
+- [Dwarves](./dwarves.md)
+- [Elves](./elves.md)
+- [Gnomes](./gnomes.md)
+- [Humans](./humans.md)

@@ -1,1 +1,8 @@
 # Pantheon
+
+Sirinaria is absolutely filthy with gods, many are very minor with only very limited domains, so you have unlimited options for worship. The major gods worshiped in [Hastdurn](../gazetteer/hastdurn.md) are [Mutar](./mutar.md) the god of coin. [Mutar](./mutar.md)'s paladins chase down debtors and punish them with divine might. [Annato](./annato.md) the goddess of song is believed to be one of the original creator gods of Sirinaria having sung it into existence. Her clerics are recognized by the way they speak using an archaic common, using thee and thou and other such language. Not all sects require this but some can be very strict. The twin god and goddess [Keeyar and Noeyar](./keeyarandnoeyar.md) shepherds of the underworld are also a popular choice. Despite their role these are considered good gods. They were separated during the dawn of time with Keeyar given dominion over those who die on land and Noeyar dominion over those who die at sea. It is common for worshipers to actually worship both and is almost a given that a sailors will worship the two of them. It is said that if one dies at sea and can tell a story about Keeyar or dies on land and is able to tell a story about Noeyar then they will be given favor in the afterlife. Characters should feel free to make up their own diety if it is something that would be important to their character.
+
+- [Annato](./annato.md) - Goddess of Song
+- [Keeyar and Noeyar](./keeyarandnoeyar.md) - Gatekeepers of the Underworld
+- [Mutar](./mutar.md) - God of Coin
+- [Thunir](./thunir.md) - God of the Dwarves
