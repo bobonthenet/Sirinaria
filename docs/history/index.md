@@ -1,5 +1,3 @@
 # The History of Sirinaria
 
-TODO: Write history
-
-- The Torang Dynasty and Greegate.
+- [Arito Greegate and the Fall of the Torang Dynasty](./torangsandgreegate.md)

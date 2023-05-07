@@ -16,7 +16,9 @@ export default defineConfig({
       {
         text: "History",
         link: "/history/",
-        items: []
+        items: [
+          { text: "Arito Greegate and the Fall of the Torang Dynasty", link: "/history/torangsandgreegate"}
+        ]
       },
       {
         text: "The Pantheon of Sirinaria",
