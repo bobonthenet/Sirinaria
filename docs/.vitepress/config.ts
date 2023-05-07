@@ -54,7 +54,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/bobonthenet/Sirinaria" }
+      { icon: "github", link: "https://github.com/bobonthenet/Sirinaria" },
+      { icon: "discord", link: "https://discord.gg/pRtR54YwjW"}
     ]
   }
 })
