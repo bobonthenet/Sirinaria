@@ -1,1 +1,3 @@
 # Annato - Goddess of Song
+
+Annato is a goddess of song, poetry, and art. It is said that she is one of the original creator gods, that sung all of existence into being. The goddess of song is believed to be one of the original creator gods of Sirinaria having sung it into existence. Her clerics are recognized by the way they speak using an archaic common, using thee and thou and other such language. Not all sects require this but some can be very strict.
