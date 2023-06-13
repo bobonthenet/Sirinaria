@@ -25,6 +25,7 @@ export default defineConfig({
         link: "/pantheon/",
         items: [
           { text: "Annato", link: "/pantheon/annato"},
+          { text: "Follya", link: "/pantheon/follya"},
           { text: "Keeyar and Noeyar", link: "/pantheon/keeyarandnoeyar" },
           { text: "Mutar", link: "/pantheon/mutar"},
           { text: "Thunir", link: "/pantheon/thunir" }

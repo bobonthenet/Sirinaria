@@ -13,6 +13,7 @@ A god's or deific spirit's domain generally has to do with the area that it occu
 ## Major Deities
 
 - [Annato](./annato.md) - Goddess of Song
+- [Follya](./Follya.md) - The Merrymaker
 - [Keeyar and Noeyar](./keeyarandnoeyar.md) - Gatekeepers of the Underworld
 - [Mutar](./mutar.md) - God of Coin
 - [Thunir](./thunir.md) - God of the Dwarves
