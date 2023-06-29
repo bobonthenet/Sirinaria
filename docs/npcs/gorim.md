@@ -1,0 +1,13 @@
+# Gorim Steelbrow
+
+Gorim Steelbrow, the master blacksmith of Llyndairwen, a being with feet firmly planted in the earth but a spirit that dances among the stars. His broad shoulders and powerful arms are a testament to the strength and endurance of his dwarven heritage, while the delicate filigree etched into his armor and the ethereal aura that surrounds him speak of the touch of the fae. He has a sturdy build and stout stature, his beard flowing like molten gold, intricately braided and adorned with shimmering gemstones. His weathered face bears the marks of countless hours spent toiling at the forge.
+
+When Gorim raises his goggles, revealing his eyes of polished silver, they reflect the flickering flames of the forge like twin mirrors capturing the very essence of the fiery hearth. His gaze holds both wisdom and mischief, as if he has glimpsed secrets hidden within the molten metal, and knows that the forging process is more than mere craftsmanship—it is a dance with the spirits of fire and iron.
+
+He moves with a grace that defies his stout form, his hands deftly manipulating tools with the precision of a practiced artist. The clanging of hammers against anvil echoes through the workshop, a symphony of creation guided by Gorim's steady hand. As he works, his hands seem to blur, almost as if they possess a supernatural speed, revealing the touch of the fae in every piece he forges.
+
+Adorned in a sturdy leather apron adorned with intricate patterns reminiscent of sprawling forests and blooming flowers, Gorim emanates an aura of both ruggedness and elegance. The air around him carries the faint scent of wildflowers and the lingering traces of ancient enchantments.
+
+Gorim Steelbrow is a living embodiment of the fusion between the practicality of dwarven craftsmanship and the ethereal beauty of the fae. His creations, born from the fires of his forge and blessed by the touch of the fairy realm, are sought after by warriors and adventurers who seek weapons and armor that bear not only exceptional strength and durability but also an essence of enchantment—a reflection of the blacksmith's own extraordinary nature.
+
+In Gorim's presence, you sense the boundless creativity and unyielding determination that make him a true master of his craft. As his silver eyes meet yours, a spark of recognition and appreciation ignites, for he understands the timeless allure of melding the mundane and the magical, forging not just items of utility but also objects of enduring beauty and profound significance.

@@ -64,7 +64,13 @@ export default defineConfig({
         link: "/npcs/",
         collapsed: true,
         items: [
-          { text: "Coenre the Ranger", link: "/npcs/coenre"}
+          { text: "Coenre the Ranger", link: "/npcs/coenre"},
+          { text: "Finnius the Shopkeep", link: "/npcs/finnius"},
+          { text: "Gorim Steelbrow", link: "/npcs/gorim"},
+          { text: "Gruff and Gideon", link: "/npcs/gruffandgideon"},
+          { text: "The Hags of Llyndairwen", link: "/npcs/thehagsofllyndairwen"},
+          { text: "Morwen the Enigmatic", link: "/npcs/morwen"},
+          { text: "Pip Sprocketwings", link: "/npcs/pipsprocketwings"}
         ]
       }
     ],

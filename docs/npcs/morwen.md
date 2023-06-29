@@ -1,0 +1,8 @@
+# Morwen the Enigmatic
+
+Morwen the Enigmatic is the esteemed Riddle Master of Llyndairwen. Clad in flowing robes of vibrant emerald green, adorned with intricate patterns of silver thread, Morwen exudes an air of mystery and wisdom. Their long, silvery hair cascades down their back, interwoven with delicate strands of shimmering moonstone and opalescent feathers, giving them an otherworldly appearance.
+
+Morwen's piercing, luminous eyes gleam with an ever-present spark of riddling mischief, reflecting a depth of knowledge and enigmatic secrets. They possess an aura of ancient magic, as if the very essence of riddles and puzzles courses through their veins.
+With a voice that resonates like the rustling of leaves and the whisper of the wind, Morwen invites challengers to test their wits and unlock the secrets of their mind. They carry a weathered tome, bound in worn leather and inscribed with cryptic symbols, containing an extensive collection of riddles and brainteasers from countless realms.
+
+Morwen's presence is captivating, drawing both admiration and intrigue from those who encounter them. Their riddles serve as gateways to hidden wisdom, offering tantalizing glimpses into the profound mysteries that lie beyond mortal understanding. As the Riddle Master of Llyndairwen, Morwen holds the key to unlocking the realms of perplexity, challenging all who seek to unravel the enigmas of the fairy city.
