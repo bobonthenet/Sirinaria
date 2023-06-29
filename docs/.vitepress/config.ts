@@ -58,6 +58,14 @@ export default defineConfig({
           { text: "Hawksmont", link: "/gazetteer/hawksmont"},
           { text: "Llyndairwen", link: "/gazetteer/llyndairwen"}
         ]
+      },
+      {
+        text: "NPCs",
+        link: "/npcs/",
+        collapsed: true,
+        items: [
+          { text: "Coenre the Ranger", link: "/npcs/coenre"}
+        ]
       }
     ],
 

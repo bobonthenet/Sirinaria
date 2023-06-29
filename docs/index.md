@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: Gazetteer
       link: /gazetteer/
+    - theme: brand
+      text: NPCs
+      link: /npcs/
 
 # features:
 #   - title: Feature A
