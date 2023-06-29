@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: "History",
         link: "/history/",
+        collapsed: true,
         items: [
           { text: "Arito Greegate and the Fall of the Torang Dynasty", link: "/history/torangsandgreegate"}
         ]
@@ -23,6 +24,7 @@ export default defineConfig({
       {
         text: "The Pantheon of Sirinaria",
         link: "/pantheon/",
+        collapsed: true,
         items: [
           { text: "Annato", link: "/pantheon/annato"},
           { text: "Follya", link: "/pantheon/follya"},
@@ -35,6 +37,7 @@ export default defineConfig({
       {
         text: "Lineages of Sirinaria",
         link: "/lineages/",
+        collapsed: true,
         items: [
           {text: "Dragonborn", link: "/lineages/dragonborn"},
           { text: "Dwarves", link: "/lineages/dwarves" },
@@ -46,12 +49,14 @@ export default defineConfig({
       {
         text: "Gazetteer of Sirinaria",
         link: "/gazetteer/",
+        collapsed: true,
         items: [
           { text: "Dwar'Cathr", link: "/gazetteer/dwarcathr"},
           { text: "Fellnari Forest", link: "/gazetteer/fellnariforest" },
           { text: "Greegate", link: "/gazetteer/greegate"},
           { text: "Hastdurn", link: "/gazetteer/hastdurn"},
-          { text: "Hawksmont", link: "/gazetteer/hawksmont"}
+          { text: "Hawksmont", link: "/gazetteer/hawksmont"},
+          { text: "Llyndairwen", link: "/gazetteer/llyndairwen"}
         ]
       }
     ],

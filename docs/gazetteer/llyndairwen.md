@@ -1,0 +1,11 @@
+# Llyndairwen: The Fairy City
+
+As you approach the bustling fairy city of Llyndairwen, a kaleidoscope of colors and a cacophony of captivating sounds come to greet you. The air alight with an effervescent energy, Llyndairwen becomes a lively labyrinth of laughter, lilting melodies, and lively footsteps. Fairy creatures, goblins, and elves engage in animated encounters, creating a symphony of bustling beats, beguiling banter, and bountiful banquets.
+
+The city sprawls with whimsical wonders, its winding streets and narrow alleys forming a fantastical tapestry. Enchanting structures, plucked from the realm of dreams, rise and ripple like shimmering mirages. From the edge of the city, where you stand, the grandeur of Nimrinde's palace gleams in the distance, a beacon of brilliance and boundless beauty, nestled within the heart of Llyndairwen.
+
+The marketplace of Llyndairwen beckons with vibrant stalls and bustling bazaars. A menagerie of mesmerizing sights and scents surrounds you as you meander through the lively lanes. Exotic spices send wisps of aromatic allure through the air, mingling with the mouthwatering scent of freshly baked pastries and the earthy essence of enchanting herbs. From the trinkets of goblin peddlers to the delicate crafts of fairy artisans, the market mesmerizes with its myriad of magical merchandise.
+
+A jovial tavern stands at the heart of Llyndairwen, its doors swinging wide, welcoming wanderers with warmth. The symphony of sounds spills into the streets, where merry music mingles with the melodic murmurs of mingling patrons. Laughter dances on the air, like a chorus of tinkling bells, as tales of adventure and wonder fill the air.
+
+Llyndairwen is adorned with homes of varied whimsy, ranging from quaint cottages with thatched roofs to bizarre mushroom-like structures. Each dwelling holds its own charm, painted in vivid hues and embellished with intricate carvings. The air itself seems to shimmer with magic, infusing every corner of the city with an otherworldly ambiance. To the west you even see two homes stilted on long bird legs that appear to be in combat with one another fighting over a vacant lot, while the residents of those homes shout and shake their fists at one another out the windows.
